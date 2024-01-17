@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ade-cillia&theme=Tokionight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ade-cillia&theme=tokionight)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Ade-cillia/Ade-cillia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
